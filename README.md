@@ -17,5 +17,6 @@ Nossa solução envolve a integração família-empresa, já adotada no mercado 
 <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
 <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000">
 <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png&color=FFFFFF">
+<a href = "https://floorplanner.com/pt/login" target="_blank" >FLOORPLANNER</a>
 <h3>links úteis:</h3>
 <a href = "https://plataforma.gpinovacao.senai.br/plataforma/ideia/270382" target="_blank">SAGA SENAI</a>
